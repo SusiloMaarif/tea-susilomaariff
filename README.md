@@ -1,2 +1,8 @@
 # tea-susilomaariff
 tea testnet
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x266AaD55670aFE6e16c9809e7C4E0F663d7e1Bff'
+quorum: 1
